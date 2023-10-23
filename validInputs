@@ -1,0 +1,5 @@
+Option i: Insert pet (will be followed by Pet Name and Pet Age)
+// Option s: Search pet (will be followed by Pet Name to be searched)
+// Option n: Display in order traversal
+// Option e: Display pre order traversal
+// Option o: Display post order traversal
